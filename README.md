@@ -1,6 +1,8 @@
-# Corre-ao-
+# Correcao
 Nota de  Materia
 
+PROTOTIPO
+ELEBORADOR DE QUESTOES
 //©moises ferreira de lima
 //moisesfdl_pbt@hotmail.com.br
 #include <iostream>
